@@ -2,4 +2,4 @@
 
 ## Cómo funciona el modelo
 
-![SVD Explicación](Screenshot 2025-05-11 103037.png)
+![SVD Explicación](Screenshot%202025-05-11%20103037.png)
