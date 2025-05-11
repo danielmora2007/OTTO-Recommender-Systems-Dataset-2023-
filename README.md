@@ -8,6 +8,6 @@
 
 ![SVD Explicación](Screenshot%202025-05-11%20104046.png)
 
-## AGREGAR EL api_key  y azure_endpoint manualmente, ya que git presento advertencia
+## Agregar el api_key  y azure_endpoint , ya que github presento advertencia al momento del subir el archivo
 
 ![SVD Explicación](Screenshot%202025-05-11%20113115.png)
